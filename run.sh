@@ -23,7 +23,6 @@
  """ 
   
   
- cd module 
  clear 
  python loading.py 
  sleep 3 
